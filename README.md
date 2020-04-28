@@ -28,8 +28,8 @@
 
 **可走出的地圖範例**
 
-![](media/40eb31796633531f42e16f092ecee09b.png)
+![](example1.png)
 
 **不可走出的地圖範例**
 
-![](media/446cd20ec3b276143f0a2f5c9245bfb0.png)
+![](example2.png)
